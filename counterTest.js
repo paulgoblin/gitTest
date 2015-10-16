@@ -1,4 +1,6 @@
-// superCounter returns the word count (no. of string segments separated by spaces), character count, average word length, and number of spaces in a string, phrase. phrase can be any string not containing special characters like /,  ", or ' 
+// superCounter returns the word count (no. of string segments separated by spaces),
+// character count, average word length, and number of spaces in a string, phrase.
+// phrase can be any string not containing special characters like /,  ", or ' 
 
 var superCounter = function(phrase){
     
