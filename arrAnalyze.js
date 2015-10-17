@@ -1,3 +1,12 @@
+// Array analyzer takes an array of numbers and counts 
+// the following
+
+//Count of odd integers
+//Count of negative integers
+//The average of all integers (round to 2 decimal)
+//The median of all integers
+// and returns it in an object
+
 var arrayAnalyze = function() {
     
     var ans = {odds: 0, negatives: 0, avg: 0, median:0};
